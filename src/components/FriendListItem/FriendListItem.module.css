@@ -1,0 +1,10 @@
+.textOnline {
+    color: green;
+  }
+  .textOffline {
+    color: red;
+  }
+  .name {
+    margin-top: 15px;
+    text-align: center;
+  }
